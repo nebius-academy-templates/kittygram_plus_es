@@ -7,7 +7,7 @@ git clone https://github.com/nebius-academy-templates/kittygram_plus_es.git
 ```
 
 ```
-cd kittygram_plus
+cd kittygram_plus_es
 ```
 
 Crea y activa un entorno virtual:
